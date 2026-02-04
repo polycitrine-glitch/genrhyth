@@ -1,9 +1,9 @@
 const cacheName = "AOCS-Genrhyth-1.0";
 const contentToCache = [
     "Build/GenRyth.loader.js",
-    "Build/GenRyth.framework.js.br",
-    "Build/GenRyth.data.br",
-    "Build/GenRyth.wasm.br",
+    "Build/GenRyth.framework.js",
+    "Build/GenRyth.data",
+    "Build/GenRyth.wasm",
     "TemplateData/style.css"
 
 ];
