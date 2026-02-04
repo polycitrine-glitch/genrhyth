@@ -1,0 +1,35 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+
+# Unity3D generated meta files
+*.pidb
+*.booproj
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.sln
+*.sdf
+*.suo
+*.tmp
+*.tmp_proj
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+
+# Crash reports
+crashlytics-build.properties
+
+# OS files
+.DS_Store
